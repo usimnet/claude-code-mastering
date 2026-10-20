@@ -95,3 +95,4 @@ Claude Code는 여러분의 코드를 대신 작성하는 도구가 아닙니다
 황민호
 
 ## Git 실습 중 - usimnet
+vs code 터미널 창 표시 단축키: Ctrl + ~ 
